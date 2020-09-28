@@ -8,6 +8,8 @@ from pydantic import BaseModel
 
 from database import schemas
 
+app = FastAPI()
+
 
 PROCESSES = {}
 
