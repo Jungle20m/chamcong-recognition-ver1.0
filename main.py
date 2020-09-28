@@ -3,7 +3,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 
-from recognition_process import recognition
+# from recognition_process import recognition
 
 
 from database import schemas
